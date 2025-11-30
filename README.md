@@ -61,5 +61,5 @@ Includes DAX-based KPIs, custom tooltips, slicers, drill-throughs, and phase-wis
 ## 📎 Project Links
 - **Power BI Dashboard:** *https://app.powerbi.com/view?r=eyJrIjoiZDM5YTUzMWMtM2VkMC00YmU0LWFjODctODM4Yjk2MTBmYTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 *
 - **Video Presentation:** *https://youtu.be/5CSe5DkOzjY?si=BrTt3RGFzxDuA2J2*  
-- **LinkedIn Post:** *Add link here*  
+- **LinkedIn Post:** *https://www.linkedin.com/posts/karthika-dataanalyst_microsoft-power-bi-activity-7398382342416953344-redv?utm_source=share&utm_medium=member_android&rcm=ACoAAEmVRp0BfPcLttLhzg3crE4Sn8qvz3fjDk0*  
 
